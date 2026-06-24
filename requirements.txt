@@ -1,0 +1,9 @@
+# Core ML Libraries
+torch
+torchvision
+scikit-learn
+numpy
+matplotlib
+seaborn
+# Optional but recommended for handling images
+Pillow
